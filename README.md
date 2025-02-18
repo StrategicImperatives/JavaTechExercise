@@ -81,10 +81,9 @@ Good documentation to get us started and understand your solution is important.
 
 Your project must build and run on Linux x86 or macOS ARM64.
 
-How you run the solution is up to you - a simple command line/stdout solution is perfectly fine; a Docker image can provided if desired. We just ask that you include clear instructions on how to run the application.
+How you run the solution is up to you - a simple command line/stdout solution is perfectly fine; a Docker image can be provided if desired. We just ask that you include clear instructions on how to run the application.
 
 Tests to prove your solution are vital.
 
 
-Note: please do not fork this repository or submit answers as a public pull request.
-
+Note: please do not fork this repository or submit answers as a public pull request. Please zip and send your repo over email or via file upload.
